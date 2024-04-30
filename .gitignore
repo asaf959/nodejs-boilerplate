@@ -1,0 +1,14 @@
+node_modules
+
+.vscode
+.vercel
+.env
+
+public
+
+dist
+
+build
+
+src/cronjob/output.log
+src/cronjob/error.log
