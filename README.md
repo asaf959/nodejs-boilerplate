@@ -1,1 +1,1 @@
-# nodejs-typescript-boilerplate
+# nodejs-boilerplate
